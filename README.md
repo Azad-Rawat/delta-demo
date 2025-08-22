@@ -1,4 +1,4 @@
-# delta-demo
+# GitHub
 this is the delta demo for git &amp; github.
 
 # teacher
